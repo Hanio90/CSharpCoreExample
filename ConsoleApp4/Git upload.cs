@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp4
 {
     class Program
-    {
+    { //This is my second commit to GIT HUB
         static void Main(string[] args)
         {
             Console.WriteLine("Enter first number");
